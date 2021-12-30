@@ -17,6 +17,6 @@ int main(){
 		i--;
 	}
 	//printing the code in the screen
-	printf("%d",f);
+	printf("%d! =%d",n,f);
 	return 0;
 }
